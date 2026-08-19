@@ -33,8 +33,8 @@ The component contains a responsive stats preview card with a heading, a descrip
 
 ### Links
 
-- Solution URL: ![stats-preview-card-component-main](https://github.com/nzanzulandry87-byte/stats-preview-card-component-main)
-- Live Site URL: ![stats-preview](https://stats-preview-silk.vercel.app/)
+- Solution URL: [stats-preview-card-component-main](https://github.com/nzanzulandry87-byte/stats-preview-card-component-main)
+- Live Site URL: [stats-preview](https://stats-preview-silk.vercel.app/)
 
 ## My process
 
