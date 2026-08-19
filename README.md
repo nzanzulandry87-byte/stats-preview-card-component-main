@@ -33,7 +33,7 @@ The component contains a responsive stats preview card with a heading, a descrip
 
 ### Links
 
-- Solution URL: Not published yet
+- Solution URL: [](https://github.com/nzanzulandry87-byte/stats-preview-card-component-main)
 - Live Site URL: Not published yet
 
 ## My process
